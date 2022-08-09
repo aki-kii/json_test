@@ -3,7 +3,8 @@
         {
             "id": 1,
             "article": {
-                "createdAt": "2022-08-08",
+                "created_at": "2022-08-08",
+                "updated_at": "2022-08-09",
                 "title": "こんにちは、世界"
             },
             "user": {
@@ -18,7 +19,8 @@
         {
             "id": 2,
             "article": {
-                "createdAt": "2022-07-07",
+                "created_at": "2022-07-07",
+                "updated_at": "2022-08-09",
                 "title": "Hello, world!"
             },
             "user": {
@@ -33,7 +35,8 @@
         {
             "id": 3,
             "article": {
-                "createdAt": "2022-07-07",
+                "created_at": "2022-06-07",
+                "updated_at": "2022-08-09",
                 "title": "Hello, world!"
             },
             "user": {
@@ -48,7 +51,8 @@
         {
             "id": 4,
             "article": {
-                "createdAt": "2022-07-07",
+                "created_at": "2022-05-07",
+                "updated_at": "2022-08-09",
                 "title": "Hello, world!"
             },
             "user": {
@@ -63,7 +67,8 @@
         {
             "id": 5,
             "article": {
-                "createdAt": "2022-07-07",
+                "created_at": "2022-04-07",
+                "updated_at": "2022-08-09",
                 "title": "Hello, world!"
             },
             "user": {
