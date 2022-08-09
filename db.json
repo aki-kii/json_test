@@ -11,6 +11,10 @@
     "profile": {
         "name": "typicode"
     },
+    "aisatsu": [
+        {"japan": "こんにちは"},
+        {"english": "Hello"}
+    ],
     "articles": {
         "id": 1,
         "article": {
