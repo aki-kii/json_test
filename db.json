@@ -11,7 +11,7 @@
     "profile": {
         "name": "typicode"
     },
-    "articles": [{
+    "articles": {
         "id": 1,
         "article": {
             "createdAt": "2022-08-08",
@@ -27,5 +27,5 @@
                 "type": "ECサイト"
             }
         }
-    }]
+    }
 }
