@@ -12,8 +12,8 @@
         "name": "typicode"
     },
     "aisatsu": [
-        {"japan": "こんにちは"},
-        {"english": "Hello"}
+        {"id": 1, "japan": "こんにちは"},
+        {"id": 2, "english": "Hello"}
     ],
     "articles": {
         "id": 1,
