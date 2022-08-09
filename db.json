@@ -1,14 +1,31 @@
 {
     "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+        { "id": 1, "title": "Post 1" },
+        { "id": 2, "title": "Post 2" },
+        { "id": 3, "title": "Post 3" }
     ],
     "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
+        { "id": 1, "body": "some comment", "postId": 1 },
+        { "id": 2, "body": "some comment", "postId": 1 }
     ],
     "profile": {
-      "name": "typicode"
-    }
-  }
+        "name": "typicode"
+    },
+    "articles": [{
+        "id": 1,
+        "article": {
+            "createdAt": "2022-08-08",
+            "title": "こんにちは、世界"
+        },
+        "userInfo": {
+            "user": {
+                "name": "ほげほげ",
+                "organization": "hogehoge株式会社"
+            },
+            "service": {
+                "name": "hogezon",
+                "type": "ECサイト"
+            }
+        }
+    }]
+}
