@@ -30,7 +30,58 @@
                 },
                 "service": {
                     "name": "フガ天",
-                    "type": "eコマース"
+                    "type": "ECサイト"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "article": {
+                "createdAt": "2022-07-07",
+                "title": "Hello, world!"
+            },
+            "userInfo": {
+                "user": {
+                    "name": "ふがふが",
+                    "organization": "huga株式会社"
+                },
+                "service": {
+                    "name": "フガ天",
+                    "type": "ECサイト"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "article": {
+                "createdAt": "2022-07-07",
+                "title": "Hello, world!"
+            },
+            "userInfo": {
+                "user": {
+                    "name": "ふがふが",
+                    "organization": "huga株式会社"
+                },
+                "service": {
+                    "name": "フガ天",
+                    "type": "ECサイト"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "article": {
+                "createdAt": "2022-07-07",
+                "title": "Hello, world!"
+            },
+            "userInfo": {
+                "user": {
+                    "name": "ふがふが",
+                    "organization": "huga株式会社"
+                },
+                "service": {
+                    "name": "フガ天",
+                    "type": "ECサイト"
                 }
             }
         }
