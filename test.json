@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "article": {
+            "createdAt": "2022-08-08",
+            "title": "こんにちは、世界"
+        },
+        "userInfo": {
+            "user": {
+                "name": "ほげほげ",
+                "organization": "hogehoge株式会社"
+            },
+            "service": {
+                "name": "hogezon",
+                "type": "ECサイト"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "article": {
+            "createdAt": "2022-07-08",
+            "title": "Hello, world!"
+        },
+        "userInfo": {
+            "user": {
+                "name": "ふがふが",
+                "organization": "hugahuga株式会社"
+            },
+            "service": {
+                "name": "フガ天",
+                "type": "ECサイト"
+            }
+        }
+    }
+]
